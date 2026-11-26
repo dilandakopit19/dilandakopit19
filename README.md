@@ -1,7 +1,7 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Dilanda%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Creative%20Coder%20%7C%20Malang,%20Indonesia&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Dylan%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Creative%20Coder%20%7C%20Malang,%20Indonesia&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/dilandakopit19">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+interactive+3D+web+experiences+🌌;Turning+ideas+into+real+projects+🚀;Learning+something+new+every+day+📚;Let's+collaborate!+🤝" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 
 ```js
-const dilanda = {
+const Dylan = {
   username: "dilandakopit19",
   location: "Malang, East Java 🇮🇩",
   focus: ["Web Development", "Three.js & 3D", "Software Engineering"],
