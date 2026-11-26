@@ -1,110 +1,124 @@
-<!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Dylan%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Creative%20Coder%20%7C%20Malang,%20Indonesia&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/dilandakopit19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+interactive+3D+web+experiences+🌌;Turning+ideas+into+real+projects+🚀;Learning+something+new+every+day+📚;Let's+collaborate!+🤝" alt="Typing SVG" />
-</a>
+<img src="./assets/header.svg" alt="dilandakopit19 - animated galaxy header" width="100%"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dilandakopit19&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/dilandakopit19?style=for-the-badge&logo=github&color=24292e)
-![Stars](https://img.shields.io/github/stars/dilandakopit19?style=for-the-badge&logo=starship&color=e3b341)
+![Profile Views](https://komarev.com/ghpvc/?username=dilandakopit19&label=VISITORS&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/dilandakopit19?style=for-the-badge&logo=github&color=0ea5e9)
+![Stars](https://img.shields.io/github/stars/dilandakopit19?style=for-the-badge&logo=starship&color=f59e0b)
+![Repos](https://img.shields.io/badge/REPOSITORIES-5-ec4899?style=for-the-badge&logo=gitbook&logoColor=white)
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```js
-const Dylan = {
-  username: "dilandakopit19",
-  location: "Malang, East Java 🇮🇩",
-  focus: ["Web Development", "Three.js & 3D", "Software Engineering"],
-  currentlyLearning: ["TypeScript", "Git workflows", "Clean architecture"],
-  funFact: "I build solar systems in the browser 🪐",
-  lookingFor: "Collaborations & open-source projects"
-};
-```
-
----
-
-## 🛠️ Tech Stack
+## 🚀 About Me
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+interactive+3D+web+experiences+%F0%9F%8C%8C;From+solar+systems+to+CLI+apps+%F0%9F%9A%80;Every+commit+is+a+small+step+forward+%F0%9F%91%A3;Open+for+collaboration!+%F0%9F%A4%9D" alt="typing"/>
 
 </div>
 
----
+```js
+const me = {
+  github: "dilandakopit19",
+  location: "Malang, East Java 🇮🇩",
+  loves: ["Three.js", "Creative coding", "Building things that move"],
+  currentlyLearning: ["TypeScript", "Git workflows", "Clean architecture"],
+  funFact: "I build entire solar systems in the browser 🪐",
+  openTo: "Collaborations & new ideas"
+};
+```
 
-## 🚀 Featured Projects
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
 
-<table>
+## 🛠️ Tech Arsenal
+
+<div align="center">
+<img src="./assets/skills.svg" width="100%" alt="skills marquee"/>
+</div>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
+
+## 🌌 Featured Projects
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌌 Interactive Galaxy</h3>
-      <p>Interactive 3D solar system &amp; galaxy simulation with planetary orbits, asteroid belts, custom UI controls, and visual effects.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/dilandakopit19/INTERACTIVE-GALAXY-"><b>📂 View Repo</b></a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/dilandakopit19/INTERACTIVE-GALAXY-V2"><b>✨ V2</b></a>
+    <td align="center" width="50%">
+      <a href="https://github.com/dilandakopit19/INTERACTIVE-GALAXY-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilandakopit19&repo=INTERACTIVE-GALAXY-&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Interactive Galaxy"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧺 CLI Laundry Dewe Malang 24 Jam</h3>
-      <p>A 24-hour laundry management system running in the command line.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/dilandakopit19/CLI-LAUNDRY-DEWE-MALANG-24-JAM"><b>📂 View Repo</b></a>
+    <td align="center" width="50%">
+      <a href="https://github.com/dilandakopit19/INTERACTIVE-GALAXY-V2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilandakopit19&repo=INTERACTIVE-GALAXY-V2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Interactive Galaxy V2"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/dilandakopit19/CLI-LAUNDRY-DEWE-MALANG-24-JAM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilandakopit19&repo=CLI-LAUNDRY-DEWE-MALANG-24-JAM&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CLI Laundry"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dilandakopit19/praktikum-git-trpl-dylanleonaldo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilandakopit19&repo=praktikum-git-trpl-dylanleonaldo&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Praktikum Git"/>
+      </a>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>📦 See more projects (click to expand)</b></summary>
+<summary><b>🪐 Click to explore: what's inside Interactive Galaxy?</b></summary>
 <br/>
 
-| Project | Description | Language |
-|---|---|---|
-| [praktikum-git-trpl](https://github.com/dilandakopit19/praktikum-git-trpl-dylanleonaldo) | Git practice for software engineering coursework | TypeScript |
-| [INTERACTIVE-GALAXY-V2](https://github.com/dilandakopit19/INTERACTIVE-GALAXY-V2) | Second iteration of the galaxy simulation | HTML |
+- ☀️ 3D solar system with real-time planetary orbits
+- ☄️ Asteroid belts and visual effects
+- 🎛️ Custom UI controls to play with the simulation
+- ⚡ Built with HTML + Three.js
 
 </details>
 
----
+<details>
+<summary><b>🧺 Click to explore: what's inside CLI Laundry?</b></summary>
+<br/>
+
+- 💻 Laundry management system that runs in the terminal
+- 🕐 Designed around a 24-hour laundry business
+- ⚙️ Built with JavaScript
+
+</details>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dilandakopit19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilandakopit19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=dilandakopit19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilandakopit19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=dilandakopit19&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=dilandakopit19&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilandakopit19&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%"/>
 
 </div>
 
 <details>
-<summary><b>🏆 Achievements &amp; trophies (click to expand)</b></summary>
+<summary><b>🏆 Click to see trophies</b></summary>
 <br/>
 <div align="center">
 
@@ -113,32 +127,31 @@ const Dylan = {
 </div>
 </details>
 
----
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- Needs the GitHub Action in .github/workflows/snake.yml (see instructions) -->
-<img src="https://raw.githubusercontent.com/dilandakopit19/dilandakopit19/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/dilandakopit19/dilandakopit19/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
 </div>
 
----
-
-## 🌐 Let's Connect
+## 💬 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-dilandakopit19-181717?style=for-the-badge&logo=github)](https://github.com/dilandakopit19)
-[![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
+[![Instagram](https://img.shields.io/badge/Instagram-@USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
 
 <br/>
 
-⭐ *If you like my projects, give them a star!* ⭐
+⭐ *Like my projects? Drop a star and say hi!* ⭐
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%" alt=""/>
